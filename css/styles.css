@@ -37,13 +37,15 @@ font-family: "Raleway", sans-serif;
 .menu-link:hover,
 .menu-link:active,
 .contacts-link:hover,
+.contacts-link:focus,
 .button,
 .menu-item,
-.contacts-link:active,
-.button:hover,
-.button:focus
+.contacts-link:active
 {
   color: #404bbf;
+}
+.button:hover, .button:focus {
+    background-color: #404BBF
 }
 .one {
   font-size: 56px;
