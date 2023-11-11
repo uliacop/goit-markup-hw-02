@@ -98,7 +98,8 @@ footer {
 }
 
 .team {
-  color: #f4f4fd;
+  
+  background-color: #F4F4FD
 }
 .logo link {
   font-family: "Raleway", sans-serif;
@@ -121,6 +122,8 @@ footer {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 1.5;
+  color:  #434455;
+  letter-spacing: 0.02em
 }
 .footer-text {
   font-family: Roboto;
@@ -136,6 +139,9 @@ line-height: 1.16;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
+.logo-footer{
+    color: #f4f4fd 
+}
 .main-title .three{
     font-weight: 500;
     font-size: 20px;
@@ -147,5 +153,30 @@ color:#2e2f42
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: #ffffff
+    color: #ffffff;
+    line-height: 1.2
+}
+.team-item{
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF
+}
+.job-title{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+.main-title .portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em
+}
+.portfolio-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color:  #2E2F42;
+
 }
