@@ -136,3 +136,10 @@ line-height: 1.16;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
+.three{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02e;
+color:#434455 
+}
