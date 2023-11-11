@@ -36,6 +36,7 @@ font-family: "Raleway", sans-serif;
 }
 .menu-link:hover,
 .menu-link:active,
+.menu-link:focus,
 .contacts-link:hover,
 .contacts-link:focus,
 .button,
@@ -62,14 +63,6 @@ font-family: "Raleway", sans-serif;
   line-height: 40px;
   letter-spacing: 1.1;
   text-transform: capitalize;
-}
-.three {
-  font-size: 20px;
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.4px;
 }
 .footer-text,
 .logo-footer {
@@ -138,6 +131,7 @@ font-weight: 700;
 line-height: 1.16;
 letter-spacing: 0.54px;
 text-transform: uppercase;
+color:#2e2f42 
 }
 .logo-footer{
     color: #f4f4fd 
@@ -147,15 +141,25 @@ text-transform: uppercase;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02e;
-color:#2e2f42
+color:#2e2f42;
+line-height: 1.2
 }
+.three {
+    font-size: 20px;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+  }
 .main-title .two {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
-    line-height: 1.2
-}
+    line-height: 1.11;
+    text-align: center;
+   }
 .team-item{
     line-height: 1.11;
     text-align: center;
@@ -179,4 +183,9 @@ color:#2e2f42
     line-height: 1.2;
     color:  #2E2F42;
 
+}
+.main-title .portfolio{
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em 
 }
