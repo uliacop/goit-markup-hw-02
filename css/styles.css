@@ -56,14 +56,7 @@ body {
   letter-spacing: 1.12px;
   text-align: center;
 }
-.two {
-  font-size: 36px;
-  color: #2e2f42;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 1.2;
-  text-transform: capitalize;
-}
+
 .footer-text,
 .logo-footer {
   color: #f4f4fd;
@@ -129,7 +122,7 @@ footer {
 .logo-footer {
   color: #f4f4fd;
 }
-.main-title .three {
+.feature-unit {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -145,7 +138,7 @@ footer {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
-.main-title .two {
+.name-features {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
