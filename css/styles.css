@@ -48,7 +48,7 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
-.main-title .one {
+.main-head {
   font-size: 56px;
   color: #fff;
   font-weight: 700;
