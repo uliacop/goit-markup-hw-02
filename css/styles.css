@@ -55,6 +55,7 @@ body {
   line-height: 1.07;
   letter-spacing: 1.12px;
   text-align: center;
+  letter-spacing: 0.02em
 }
 
 .footer-text,
@@ -83,8 +84,7 @@ footer {
   letter-spacing: 0.64px;
 }
 .team {
-  /*  */
-  background-color: #f4f4fd;
+ background-color: #f4f4fd;
 }
 .logo link {
   font-family: "Raleway", sans-serif;
@@ -130,7 +130,7 @@ footer {
   color: #2e2f42;
   line-height: 1.2;
   }
-.three {
+.team-person {
   font-size: 20px;
   color: #2e2f42;
   font-size: 20px;
@@ -192,6 +192,6 @@ footer {
   text-align: center;
   letter-spacing: 0.02em;
 }
-.team {
+.team-item {
   background: #F4F4FD;
 }
