@@ -48,7 +48,7 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
-.one {
+.main-title .one {
   font-size: 56px;
   color: #fff;
   font-weight: 700;
@@ -56,15 +56,12 @@ body {
   letter-spacing: 1.12px;
   text-align: center;
 }
-.main-title .one {
-  line-height: 1.07;
-}
 .two {
   font-size: 36px;
   color: #2e2f42;
   font-weight: 700;
   line-height: 40px;
-  letter-spacing: 1.1;
+  letter-spacing: 1.2;
   text-transform: capitalize;
 }
 .footer-text,
@@ -139,7 +136,7 @@ footer {
   letter-spacing: 0.02e;
   color: #2e2f42;
   line-height: 1.2;
-}
+  }
 .three {
   font-size: 20px;
   color: #2e2f42;
