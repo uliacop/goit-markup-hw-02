@@ -150,6 +150,7 @@ footer {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+
 }
 .team-item {
   line-height: 1.11;
@@ -192,6 +193,6 @@ footer {
 .team-card {
   background-color: #FFFFFF
 }
-.team-item {
-  background: #F4F4FD;
+.team {
+  background-color: #F4F4FD;
  }
